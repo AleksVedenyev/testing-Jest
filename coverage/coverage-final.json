@@ -1,0 +1,2 @@
+{"/Users/iMac/hexlet-jest/src/index.js": {"path":"/Users/iMac/hexlet-jest/src/index.js","statementMap":{"0":{"start":{"line":2,"column":22},"end":{"line":2,"column":54}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":2,"column":15},"end":{"line":2,"column":16}},"loc":{"start":{"line":2,"column":22},"end":{"line":2,"column":54}},"line":2}},"branchMap":{},"s":{"0":2},"f":{"0":2},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"261056d31f83b3ffcc365182865a719722e5ca18"}
+}
